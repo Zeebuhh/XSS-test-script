@@ -1,1 +1,1 @@
-alert('Gehackt!')
+alert('Gehackt!');
